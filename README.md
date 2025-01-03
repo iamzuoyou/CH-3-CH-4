@@ -1,6 +1,6 @@
-# Personal project of Financial Theory And Policy Course 2024Fall
+# Notebook of Financial Theory And Policy Course Paper 2024Fall
 
-个人课程作业相关代码和数据渠道。
+个人课程论文相关代码和数据渠道。
 
 ## 数据来源
 
